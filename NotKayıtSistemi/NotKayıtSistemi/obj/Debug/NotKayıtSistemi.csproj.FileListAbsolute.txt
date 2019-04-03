@@ -1,0 +1,12 @@
+C:\Users\Lenovo\source\repos\NotKayıtSistemi\NotKayıtSistemi\bin\Debug\NotKayıtSistemi.exe.config
+C:\Users\Lenovo\source\repos\NotKayıtSistemi\NotKayıtSistemi\bin\Debug\NotKayıtSistemi.exe
+C:\Users\Lenovo\source\repos\NotKayıtSistemi\NotKayıtSistemi\bin\Debug\NotKayıtSistemi.pdb
+C:\Users\Lenovo\source\repos\NotKayıtSistemi\NotKayıtSistemi\obj\Debug\NotKayıtSistemi.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\NotKayıtSistemi\NotKayıtSistemi\obj\Debug\NotKayıtSistemi.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\NotKayıtSistemi\NotKayıtSistemi\obj\Debug\NotKayıtSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\NotKayıtSistemi\NotKayıtSistemi\obj\Debug\NotKayıtSistemi.exe
+C:\Users\Lenovo\source\repos\NotKayıtSistemi\NotKayıtSistemi\obj\Debug\NotKayıtSistemi.pdb
+C:\Users\Lenovo\source\repos\NotKayıtSistemi\NotKayıtSistemi\obj\Debug\NotKayıtSistemi.FrmGiris.resources
+C:\Users\Lenovo\source\repos\NotKayıtSistemi\NotKayıtSistemi\obj\Debug\NotKayıtSistemi.FrmOgretmenDetay.resources
+C:\Users\Lenovo\source\repos\NotKayıtSistemi\NotKayıtSistemi\obj\Debug\NotKayıtSistemi.FrmOgrenciDetay.resources
+C:\Users\Lenovo\source\repos\NotKayıtSistemi\NotKayıtSistemi\obj\Debug\NotKayıtSistemi.csprojAssemblyReference.cache
